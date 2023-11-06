@@ -83,7 +83,7 @@ For the Twitter data collection, I used opioid-related keywords from another stu
 </table>
 
 
-**Table 1: **Sample of opioid-related keywords and their common misspellings used in the Twitter data collection.
+**Table 1:** Sample of opioid-related keywords and their common misspellings used in the Twitter data collection.
 
 Of the final dataset, there are 140 (21.6%) future-oriented posts, 240 (37.0%) past-oriented posts, and 268 (41.4%) present-oriented posts. In Table 3, I present a further breakdown of the dataset across training and test set. 
 
@@ -116,7 +116,7 @@ Of the final dataset, there are 140 (21.6%) future-oriented posts, 240 (37.0%) p
 </table>
 
 
-**Table 2: **Sample of social media posts and their temporal orientation label.
+**Table 2:** Sample of social media posts and their temporal orientation label.
 
 In determining the temporal orientation of the posts, I created and followed these guidelines to determine the TP classification of the post:
 
